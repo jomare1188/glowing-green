@@ -1,2 +1,7 @@
-a25c071c1062b2786ee415aa0af35db0  sc.mlc.cns.sgl.utg.scga7.importdb.fa
-745e390feaab49c072bf83755add163c  sc.mlc.cns.sgl.utg_scga7.sort.gff3.gz
+5926b03fcc8ec8def31658220ac51437  check_ids.sh
+9eea538068d82f9b2c60dfdd07005249  IQ_CDS.fa
+14b24e809593c5396e4a2dd95da12195  IQ_protein.fa
+d12b7f69b15b19ee80195f047b6f337f  run_get_all.sh
+7bd48e445a5a0ac045b77b4426a57083  sc.mlc.cns.sgl.utg.scga7.importdb.fa
+586c726461ab2e592e6cfba0b003e401  sc.mlc.cns.sgl.utg.scga7.importdb.fa.fai
+88d2dd967fd6a9eaa87d938d894e2056  sc.mlc.cns.sgl.utg_scga7.sort.gff3
