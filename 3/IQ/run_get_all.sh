@@ -9,6 +9,8 @@ GENOTYPE="IQ"
 IN_GENOME="sc.mlc.cns.sgl.utg.scga7.importdb.fa"
 CDS=${GENOTYPE}_CDS.fa
 PROTEINS=${GENOTYPE}_protein.fa
+TRANSCRIPTS=${GENOTYPE}_transcripts.fa
+EXONS=${GENOTYPE}_exons.fa
 GFF="sc.mlc.cns.sgl.utg_scga7.sort.gff3"
 
 # get files
@@ -27,4 +29,4 @@ sed -i 548795d ${IN_GENOME}
 sed -i '/^>/s/scga7_//' ${IN_GENOME}
 
 # run gffread
-gffread -g ${IN_GENOME} -x ${CDS} -y ${PROTEINS} -C ${GFF}
+gffread -g ${IN_GENOME} -x ${CDS} -y ${PROTEINS} -u ${TRANSCRIPTS} -w ${EXONS} -C ${GFF}
