@@ -1,8 +1,14 @@
 5926b03fcc8ec8def31658220ac51437  check_ids.sh
+8e3cdad465da47e79c2fecae152127f6  fix_headers.sh
 9eea538068d82f9b2c60dfdd07005249  IQ_CDS.fa
+7dcc21c8fa55849e3a4d91d3e10e6c73  IQ_CDS_fixed.fa
 3dd48e70b0e8f190f526d0576fdb2403  IQ_exons.fa
+fbe9b14c6ce24d9f3b919366fd224370  IQ_exons_fixed.fa
 14b24e809593c5396e4a2dd95da12195  IQ_protein.fa
+06a488a3f2de1847529aa8c48a2ceabf  IQ_protein_fixed.fa
 1d0d683ad6b6dcdf3cf3a31336daa515  IQ_transcripts.fa
+6bf56751235805b19d85140bd0d7198b  IQ_transcripts_fixed.fa
+0cd41fe0075a6d7e98855632eb48ad52  md5sum
 8bad510247972b7a94383af96cfd9c70  run_get_all.sh
 7bd48e445a5a0ac045b77b4426a57083  sc.mlc.cns.sgl.utg.scga7.importdb.fa
 586c726461ab2e592e6cfba0b003e401  sc.mlc.cns.sgl.utg.scga7.importdb.fa.fai

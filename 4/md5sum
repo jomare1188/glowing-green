@@ -1,8 +1,14 @@
 afd5648eec4cbbc7906504bc57ff613c  colombia_CDS.fa
+4c36929c25229e6df8e6a4453ce356fe  colombia_CDS_fixed.fa
 cab4b8cca81d871fa163161ad9d43b8b  colombia_exons.fa
+a171ca21c78ed5c4ab87750896e8e33b  colombia_exons_fixed.fa
 ed9ac850f911363643a7fa1a47751e3c  colombia.fa
 6c685eaa99ef858d1bb764ce68847ff6  colombia.fa.fai
 11080177636412b10c84e445bd26a0f5  colombia.gff
 172f95bc643f801ceebe4c5361a68e83  colombia_protein.fa
+8d20b24b07e6a5275b56c346833a5ee3  colombia_protein_fixed.fa
 ffa33aae34b4a464ed9e85351238e713  colombia_transcripts.fa
+0ce96143e22ae9d4a333c3a90e3023ef  colombia_transcripts_fixed.fa
+4fcbd3606d30a11a12f237e8b947f2dd  fix_headers.sh
+1562fdcda76ac117b011671495d24532  md5sum
 7619beee48eb0205647cb6f3a041dfad  run_get_all.sh

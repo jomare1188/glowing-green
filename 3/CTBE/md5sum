@@ -1,9 +1,15 @@
 3bd6107a23e638e8fc6568104fa41747  check_ids.sh
 014ca4b3bde69dd1f7323090481e3b39  CTBE_CDS.fa
+ea5c66a139db2d66770f8061a83b9eeb  CTBE_CDS_fixed.fa
 8ec21a202cd61948630351e30096349f  CTBE_exons.fa
+68c26c77459fe84ac3fedffc96b58fa4  CTBE_exons_fixed.fa
 d9da72549f5d33f3111d679530487319  CTBE_protein.fa
+911e04325724c2e8a57ef884ee4af9e6  CTBE_protein_fixed.fa
 53e990232b129fb9f3fa43e85311383e  CTBE_SP803280_genome_annotation.EVM19022016.fixIDS2.gff3
 ebdde686ca008df92e10ebb1d353c515  CTBE_transcripts.fa
+1f53cffcc5e2f1b6f9f0bf7b3599c633  CTBE_transcripts_fixed.fa
+8f0e489cc3ad738e201bcb2dd3a9b2b7  fix_headers.sh
 2f0ae53e6c589b5bcd4e921b07747cc5  GCA_002018215.1_CTBE_SP803280_v1.0_genomic.fna
 d2cc9505fe34f17cf07ba05577cd36c7  GCA_002018215.1_CTBE_SP803280_v1.0_genomic.fna.fai
+3375cb0b78c1f7f28a83b69d1f776eaa  md5sum
 1a1f5ccc6cbc460af65b2c5a4b2658aa  run_get_all.sh
