@@ -1,4 +1,5 @@
 ## We used https://github.com/jomare1188/get_longest_cds and fixed names using fix_names.sh in code directoy
+## SEE /Storage/data1/jorge.munoz/glowing-green/longest to get actual files
 
  - Longest transcript per orthogroup (inflation = 2.8): ``` transcripts/results/longest_trans.fa```
  - Coding transcripts (transcripts in orthogroups):```transcripts/transcripts_in_orthogroups.fasta```
