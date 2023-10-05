@@ -14,6 +14,6 @@ rename_prefix() {
 
 # Usage
 rename_prefix colombia_CDS.fa colombia_CDS_fixed.fa CENICANA
-rename_prefix colombia_exons.fa colombia_exons_fixed.fa CENICANA 
+#rename_prefix colombia_exons.fa colombia_exons_fixed.fa CENICANA 
 rename_prefix colombia_protein.fa colombia_protein_fixed.fa CENICANA
 rename_prefix colombia_transcripts.fa colombia_transcripts_fixed.fa CENICANA

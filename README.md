@@ -1,5 +1,6 @@
 # glowing-green
-get representative cds per orthogroup for sugarcane pan transcriptome
+##### get representative cds per orthogroup for sugarcane pan transcriptome
+#### See longest directory to see final files
 
 1. assembled transcriptomes - CDS sequences: https://figshare.com/articles/dataset/Genotype_specific_CDS_-_Fasta_files/19426715
 
