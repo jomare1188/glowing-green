@@ -1,0 +1,7 @@
+d3a22b28066814d4469ee2e67b892f2b  all_CDS_idsok.fasta
+d910925a7e3505fb5843e467a3a92e76  all_transcripts_checked_with_cds.fasta
+7615c91f4a1df9f485a312e393d86261  check_ids.sh
+25d60787ffc78e640153c8717c42a2a4  longest_cds_per_OG.fasta
+4a402a9759b9c4bdecc02cb0f29d3714  Orthogroups_panTABLE.tsv
+c6c682bd04421f5eb2ab787ec47bb958  PanTranscriptome_2023.proteins
+987dd365dbed6c879e67580111978f63  transcripts_of_longest_cds_per_OG.fasta
